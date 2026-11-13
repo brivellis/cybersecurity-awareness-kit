@@ -13,8 +13,3 @@ Templates, not advice. Adapt them to your organisation.
 - **Get the next version automatically:** click **Watch → Custom → Releases** at the top of this page.
 - **Ask a question about a file:** open the **Discussions** tab of this repository.
 - Kit page, previews and the full file list: [brivellis.com/resources/cybersecurity-awareness-kit/](https://brivellis.com/resources/cybersecurity-awareness-kit/?utm_source=kit&utm_medium=readme&utm_campaign=awareness-kit&utm_content=kit-page)
-
-## Updates
-
-- Kit page: [brivellis.com/resources/cybersecurity-awareness-kit](https://brivellis.com/resources/cybersecurity-awareness-kit/?utm_source=github&utm_medium=readme&utm_campaign=awareness-kit)
-- Follow on LinkedIn: [Brivellis](https://www.linkedin.com/company/brivellis) for new kits and the Briefing.
